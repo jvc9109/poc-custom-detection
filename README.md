@@ -1,2 +1,4 @@
+```bash
 yarn
 yarn dev
+```
